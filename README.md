@@ -1,7 +1,7 @@
 
 # WALMART-SalesAnalysis-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=4186d04c-384e-4622-b850-6e37cf650006&autoAuth=true&ctid=6b1311e5-123f-49db-acdf-8847c2d00bed
+### Dashboard Link : [https://app.powerbi.com/reportEmbed?reportId=4186d04c-384e-4622-b850-6e37cf650006&autoAuth=true&ctid=6b1311e5-123f-49db-acdf-8847c2d00bed](https://app.powerbi.com/view?r=eyJrIjoiODlhYzBkODUtYWY4NC00MDBmLTk0YjMtZWMwYzYzYmMwZWRkIiwidCI6IjZlMzQ0NmViLTVhMTEtNGVjZC1hOTUxLTAzNzA4MjZlNjhhOSIsImMiOjF9)
 
 ## Problem Statement
 
